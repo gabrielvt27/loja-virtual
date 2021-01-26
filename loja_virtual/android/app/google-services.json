@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180695026410",
+    "firebase_url": "https://loja-a6c6d.firebaseio.com",
+    "project_id": "loja-a6c6d",
+    "storage_bucket": "loja-a6c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180695026410:android:83b11c16636c422cb2e593",
+        "android_client_info": {
+          "package_name": "br.com.valentin.lojavirtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180695026410-uldn4rt1uggu0r8faorueq87ncutfqua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXsyR05ZOE8d4vxomVNp7wYF08mjMBJf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180695026410-uldn4rt1uggu0r8faorueq87ncutfqua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
